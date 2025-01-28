@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MerzhinskiyOO.Sprint3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MerzhinskiyOO.Sprint3.Task7.V29.Test", "Tyuiu.MerzhinskiyOO.Sprint3.Task7.V29.Test\Tyuiu.MerzhinskiyOO.Sprint3.Task7.V29.Test.csproj", "{3288C6ED-997D-4D7B-A6D0-800A4EC06C97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MerzhinskiyOO.Sprint3.Task0.V17.Lib", "Tyuiu.MerzhinskiyOO.Sprint3.Task0.V17.Lib\Tyuiu.MerzhinskiyOO.Sprint3.Task0.V17.Lib.csproj", "{46438049-6149-4B8A-A5E0-E8F76992DCD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{3288C6ED-997D-4D7B-A6D0-800A4EC06C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3288C6ED-997D-4D7B-A6D0-800A4EC06C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3288C6ED-997D-4D7B-A6D0-800A4EC06C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46438049-6149-4B8A-A5E0-E8F76992DCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46438049-6149-4B8A-A5E0-E8F76992DCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46438049-6149-4B8A-A5E0-E8F76992DCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46438049-6149-4B8A-A5E0-E8F76992DCD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
